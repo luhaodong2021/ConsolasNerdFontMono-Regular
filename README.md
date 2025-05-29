@@ -1,0 +1,2 @@
+# ConsolasNerdFontMono-Regular
+ConsolasNerdFontMono-Regular
